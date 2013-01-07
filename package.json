@@ -1,0 +1,19 @@
+{
+  "name": "node-du",
+  "version": "0.0.0",
+  "description": "directory size reader",
+  "main": "du.coffee",
+  "scripts": {
+    "test": "tap test/*.coffee"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "path": "~0.4.9",
+    "fs": "0.0.0"
+  },
+  "devDependencies": {
+    "tap": "~0.3.3"
+  }
+}
