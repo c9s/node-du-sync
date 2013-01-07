@@ -6,8 +6,8 @@
   "scripts": {
     "test": "tap test/*.coffee"
   },
-  "repository": "",
-  "author": "",
+  "repository": "https://github.com/c9s/node-du.git",
+  "author": "Yo-An Lin",
   "license": "BSD",
   "dependencies": {
     "path": "~0.4.9",
