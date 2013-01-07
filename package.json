@@ -1,5 +1,5 @@
 {
-  "name": "node-du",
+  "name": "du",
   "version": "0.0.1",
   "description": "directory size reader",
   "main": "du.coffee",
