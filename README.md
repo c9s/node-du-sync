@@ -4,6 +4,11 @@ Use native Node.js fs API to calculate directory size (du -sh implementation)
 
 (sync version)
 
+Install
+-------
+
+    npm install du-sync
+
 Synopsis
 --------
 
