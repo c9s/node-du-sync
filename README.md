@@ -1,13 +1,15 @@
 node-du
 =======
-Use native node fs API to calculate directory size.
+Use native Node.js fs API to calculate directory size (du -sh implementation)
+
+(sync version)
 
 Synopsis
 --------
 
 
 ```javascript
-var du = require("du")
+var du = require("du-sync")
 var filesize = require("filesize")
 
 var dirsize = du("path/to/your/folder")

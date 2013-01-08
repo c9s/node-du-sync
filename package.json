@@ -1,8 +1,8 @@
 {
-  "name": "du",
+  "name": "du-sync",
   "version": "0.0.1",
   "description": "directory size reader",
-  "main": "du.coffee",
+  "main": "du-sync.coffee",
   "scripts": {
     "test": "tap test/*.coffee"
   },

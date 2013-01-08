@@ -1,5 +1,5 @@
 a = require "assert"
-du = require "../du"
+du = require "../du-sync"
 
 a.ok du
 a.ok du.readSizeRecursiveSync
